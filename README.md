@@ -1,6 +1,7 @@
 # Spaceship-Battles
 
-Game Design Document: [Spaceship-Battles Game Design Document.pdf](https://github.com/user-attachments/files/18171867/Spaceship-Battles.Game.Design.Document.pdf)
+Game Design Document: [Spaceship-Battles Game Design Document.pdf](https://github.com/user-attachments/files/18171950/Spaceship-Battles.Game.Design.Document.pdf)
+
 
 
 
